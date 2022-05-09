@@ -1,0 +1,10 @@
+configargparse
+torchaudio==0.9.0
+torchvision==0.10.0
+pandas
+matplotlib
+tqdm
+numpy
+asteroid
+boto3
+ptflops
